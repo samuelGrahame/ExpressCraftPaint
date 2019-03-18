@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressCraftPaint", "ExpressCraftPaint\ExpressCraftPaint.csproj", "{A90BC407-484F-47CE-8CDD-0CF5E6516371}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A90BC407-484F-47CE-8CDD-0CF5E6516371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A90BC407-484F-47CE-8CDD-0CF5E6516371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A90BC407-484F-47CE-8CDD-0CF5E6516371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A90BC407-484F-47CE-8CDD-0CF5E6516371}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66948606-8B4A-4F9C-A36B-93773E2EC014}
+	EndGlobalSection
+EndGlobal
